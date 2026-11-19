@@ -24,7 +24,7 @@ This program is a spelling bee competition where the player competes against AI 
 1. Click the green **Code** button, choose **Download ZIP**, and unzip it.
 2. Open a terminal in the folder that contains the `.java` files.
 3. Compile: `javac *.java`
-4. Run: `java MainClassName`
+4. Run: `java BeeChampion`
 
 ## Setup Requirements and Dependencies
 - **Java Version:** JDK 17 or later.
